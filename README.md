@@ -22,3 +22,9 @@ Example:
 Use the FollowReference plugin to control the vehicle.
 The waypoint behaviour must be defined and has to be enabled by the variable follow_neptus.
 
+# TODO
+- Translate IMC Maneuvers into behaviours 
+- Log IMC data for further analysis
+- Create PathControlState from behaviour execution parameters
+- Change Depth in runtime?
+
