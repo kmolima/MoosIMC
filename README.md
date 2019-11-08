@@ -17,3 +17,8 @@ Use Apache ANT for generating an executable jar:
 
 Example:
 ```java -jar MoosAdapter.jar caravela 0x0802 localhost 9000```
+
+# Controlling Moos vehicles from Neptus
+Use the FollowReference plugin to control the vehicle.
+The waypoint behaviour must be defined and has to be enabled by the variable follow_neptus.
+
